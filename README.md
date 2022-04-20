@@ -38,7 +38,7 @@ There were alot of people who helped me along the way and I would like to give t
 ## License 
 MIT License
 
-Copyright (c) [2020] [James D. Beeks]
+Copyright (c) [2022] [James Justis]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
