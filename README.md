@@ -1,8 +1,8 @@
 # Note-Taker
 ## Description
-This was an assignment for the bootcamp to learn back end developing by creatin an application that can be used to write, save, and delete notes.  
-I learned how to install the npm and run the node module. The html and front end were already in place we just focused on bring the page alive. 
-through js and node. I created a server.js file to place the objects and call funciton in. I did an mpm i install to create a pack-lock.json file.  
+This was an assignment for the bootcamp to learn back end developing by creating an application that can be used to write, save, and delete notes.  
+I learned how to install the npm and run the node module. The html and front end were already in place we just focused on bringing the page alive. 
+through js and node. I created a server.js file to place the objects and call function in. I did an mpm  install to create a pack-lock.json file.  
 After that was done i did all the proper installs to get this note taker to work.  An API and htmlroutes.js files were made to route the information. 
 to the correct server.  The note taker that I created does have the proper function required for the assignment. it is able to write save and delete notes. 
 
@@ -16,7 +16,7 @@ JDBgit9
 2020
 
 # Full Name
-James D. Beeks
+James Justis
 
 ## Installation
 npm i
@@ -59,8 +59,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Email
-info@jamesdbeeks.com
+jamesthejust99@outlook.com
 
 
 ---
-© 2020 James D Beeks developer readme, a Delisco, Inc. brand. All Rights Reserved.
+© 2020 James Justis developer readme, a Justis brand. All Rights Reserved.
