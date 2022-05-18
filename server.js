@@ -1,8 +1,9 @@
 // var bodyParser = require('body-parser')
 const express = require('express')
+const fs = require("fs");
 const app = express()
-var path = require("path")
-var PORT = process.env.PORT|| 8080;
+const path = require("path")
+const PORT = process.env.PORT|| 8080;
  
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static(path.join(__dirname, 'public')));
@@ -20,6 +21,9 @@ require("./Routes/htmlroutes")(app);
  
 // parse an HTML body into a string
 // app.use(bodyParser.text({ type: 'text/html' }))
+app.get("/", function(req, res) {
+res.sendFile(path.join(__dirname,"/public/index.html"));
+});
 
 app.listen(PORT, function() {  console.log("App listening on PORT: http://localhost:" + PORT);
 
